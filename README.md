@@ -47,7 +47,7 @@ https://cytoscape.org
 Provides analysis tools for molecular interaction data.
 https://www.ebi.ac.uk/intact/home
 
-##DiP
+## DiP
 *'The DIPTM database catalogs experimentally determined interactions between proteins. It combines information from a variety of sources to create a single, consistent set of protein-protein interactions. '*
 https://dip.doe-mbi.ucla.edu/dip/Main.cgi
 
