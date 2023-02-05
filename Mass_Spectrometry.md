@@ -27,6 +27,12 @@
  * Accuracy: Expressed in ppm. The limit of accuracy is determined by the resolution of the measurement, the calibration of the instrument and the amount of sample
 **Applications of Mass Spec**
 1.Top down: use full proteins. We analyze intect proteins when we know sequence but want to analyze post-translational modifications
-2.Bottom up: Use peptide fragments of proteins. Most instruments work better on smaller ranges. This method relies on specific enzyme cut sites to narrow down the possible peptides that are seen. **PMF** is the peptide mass fingerprint which is the ist off masses of peptides taht are seen for a signle protein. 
+2.Bottom up: Use peptide fragments of proteins. Most instruments work better on smaller ranges. This method relies on specific enzyme cut sites to narrow down the possible peptides that are seen. **PMF** is the peptide mass fingerprint which is the ist off masses of peptides taht are seen for a signle protein. In bottom up approaches it is common for a protein to be cut out of a gel.
 3.Middle down: Lose larger peptides (more than 15 aa). 
 4.MS-MS: Use larger peptides in MS/MS approaches-usually used for mixtures. Also called Tandem or MS2.
+
+### Overview of instrumentation: MALDI, Ionspray
+**Ionization Methods**
+Ionization is 1st step, needed to make the molecules move towards an opposing charge. Two major ionization methods:
+ * **MALDI**
+ * **Electrospray Ionization** (ESI)
