@@ -60,4 +60,21 @@ https://reactome.org
 
 ###  GPM
 *'The Generalized Proteoform Meta-analysis Database was constructed to utilize the information obtained by GPM servers to aid in the difficult process of validating peptide MS/MS spectra as well as protein coverage patterns. This database has been integrated into the GPM server pages, allowing users to quickly compare their experimental results with the best results that have been previously observed by users of the machines.'*
-https://www.thegpm.org/GPMDB/index.html
+https://www.thegpm.org/GPMDB/index.html <br>
+Part of GPM, pSYT contains informtion of post-translational modifications. pSYT allows you to go into the raw data as an extra step in validation.  https://psyt.thegpm.org/psyt/index.html 
+snap, also part of GPM, Contains information of polymorphisms: https://snap.thegpm.org/SNAP/index.html
+MRM, also part of GPM, is *the largest database of peptides observed by tandem mass spectrometry. Based on the analysis of over 1,000,000,000 mass spectra, MRM is the definitive source for information about the peptides found in proteomics experiments.*
+
+### Peptide Atlas 
+*'PeptideAtlas is a multi-organism, publicly accessible compendium of peptides identified in a large set of tandem mass spectrometry proteomics experiments. '* <br>
+http://www.peptideatlas.org/
+
+### PRIDE Archive
+*'The PRIDE PRoteomics IDEntifications (PRIDE) database is a centralized, standards compliant, public data repository for proteomics data, including protein and peptide identifications, post-translational modifications and supporting spectral evidence. '*
+https://www.ebi.ac.uk/pride/archive/
+
+### Human ProteinPedia
+It allows research laboratories to contribute and maintain protein annotations.
+http://www.humanproteinpedia.org/
+
+
