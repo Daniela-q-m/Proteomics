@@ -1,0 +1,32 @@
+---
+title: "Use of proteomics-related bioinformatics resources"
+Date: 2-5-23
+Author: Daniela Quijano
+output: html_notebook
+---
+
+The goal of this exploration is to become more familiar on protein databases by conduction an exploration on MMP1. **Matrix metalloprotease 1 (MMP1)** is a human protein involved in a number of different diseases, especially cancer. It degrades collagen and other highly insoluble substrates and is therefore crucial for the integrity and flexibility of tissues.
+
+**1. What is the gene symbol and the uniprot id for human MMP1?**
+
+
+
+**2. What is the pdb code for its structure? Copy and paste an image of its structure here8**
+
+
+**3. Is MMP1 phosphorylated? If yes, where (at what position) and at what amino acids?**
+
+
+**4. Are there any other posttranslational modifications in MMP1. Use at least two different databases to compare and contrast your answer based on each.**
+
+**5. Is MMP1 involved in any pathways?**
+
+
+
+**6. Was MMP1 found in any 2d gel, if yes, provide the image of the gel (or if there are two or more different conditions compared in one study, discuss similarities and differences for different gems with respect to MMPP1.**
+
+
+**7. What is MMP1’s mass? Have peptides derived from MMPP1 been found in any samples? Show the corresponding mass spectra**
+
+
+
